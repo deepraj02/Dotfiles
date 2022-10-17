@@ -1,0 +1,417 @@
+{
+    "kite.showWelcomeNotificationOnStartup": false,
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 2,
+    "python.testing.autoTestDiscoverOnSaveEnabled": false,
+    "editor.suggestSelection": "first",
+    "python.analysis.typeCheckingMode": "basic",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "tabnine.experimentalAutoImports": true,
+    "editor.smoothScrolling": true,
+    "code-runner.runInTerminal": true,
+    "code-runner.saveFileBeforeRun": true,
+    // "editor.renameOnType": true,
+    "editor.linkedEditing": true,
+    "better-comments.highlightPlainText": true,
+    "better-comments.multilineComments": true,
+    "workbench.editor.highlightModifiedTabs": true,
+    "editor.bracketPairColorization.enabled": true,
+    "typescript.inlayHints.parameterNames.enabled": "all",
+    "prettier.cssEnable": [
+        "css",
+        "css",
+        "less",
+        "scss",
+        "postcss"
+    ],
+    "liveServer.settings.port": 0,
+    "liveServer.settings.ignoreFiles": [
+        ".vscode/**",
+        "**/*.scss",
+        "**/*.sass",
+        "**/*.ts"
+    ],
+    "liveServer.settings.root": "/",
+    "html.format.indentInnerHtml": true,
+    "emmet.preferences": {},
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "git.ignoreMissingGitWarning": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "markdown.preview.fontFamily": "Fira Code",
+    "editor.mouseWheelZoom": true,
+    "AREPL.delay": 0,
+    "workbench.colorCustomizations": {},
+    "terminal.integrated.allowMnemonics": true,
+    "launch": {
+        "configurations": [],
+        "compounds": []
+    },
+    // "terminal.integrated.shell.linux": "",
+    "explorer.confirmDragAndDrop": false,
+    "editor.minimap.enabled": true,
+    "markdown.preview.fontSize": 22,
+    "terminal.integrated.rendererType": "dom",
+    "editor.cursorSmoothCaretAnimation": true,
+    "terminal.integrated.cursorStyle": "line",
+    "terminal.integrated.cursorWidth": 3,
+    "terminal.integrated.cursorBlinking": true,
+    "editor.cursorWidth": 3,
+    "peacock.favoriteColors": [
+        {
+            "name": "Angular Red",
+            "value": "#dd0531"
+        },
+        {
+            "name": "Azure Blue",
+            "value": "#007fff"
+        },
+        {
+            "name": "JavaScript Yellow",
+            "value": "#f9e64f"
+        },
+        {
+            "name": "Mandalorian Blue",
+            "value": "#1857a4"
+        },
+        {
+            "name": "Node Green",
+            "value": "#215732"
+        },
+        {
+            "name": "React Blue",
+            "value": "#61dafb"
+        },
+        {
+            "name": "Something Different",
+            "value": "#832561"
+        },
+        {
+            "name": "Svelte Orange",
+            "value": "#ff3d00"
+        },
+        {
+            "name": "Vue Green",
+            "value": "#42b883"
+        }
+    ],
+    "peacock.affectTabActiveBorder": true,
+    "peacock.affectStatusAndTitleBorders": true,
+    "peacock.affectActivityBar": false,
+    "peacock.affectAccentBorders": true,
+    "peacock.vslsShareColor": "#EAAE25",
+    "sqltools.useNodeRuntime": true,
+    "githubIssues.queries": [
+        {
+            "label": "My Issues",
+            "query": "default"
+        },
+        {
+            "label": "Created Issues",
+            "query": "author:${user} state:open repo:${owner}/${repository} sort:created-desc"
+        }
+    ],
+    "editor.renderControlCharacters": false,
+    "better-comments.tags": [
+        {
+            "tag": "!",
+            "color": "#FF2D00",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        },
+        {
+            "tag": "?",
+            "color": "#3498DB",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        },
+        {
+            "tag": "//",
+            "color": "#C5E133",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        },
+        {
+            "tag": "todo",
+            "color": "#FF8C00",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        },
+        {
+            "tag": "*",
+            "color": "#FA836B",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        },
+        {
+            "tag": "%",
+            "color": " #9B59B6",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        },
+        {
+            "tag": "&",
+            "color": "#EA63AD",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        },
+        {
+            "tag": "$",
+            "color": "#1EE14F",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        },
+        {
+            "tag": "@",
+            "color": "#D58E13",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        },
+        {
+            "tag": "^",
+            "color": "#6596DB",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        }
+    ],
+    "liveServer.settings.donotShowInfoMsg": true,
+    "java.home": "C:\\Program Files\\Java\\jdk-15.0.1",
+    "java.configuration.runtimes": [],
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "java.help.firstView": "gettingStarted",
+    "code-runner.ignoreSelection": true,
+    "java.test.config": {},
+    "terminal.external.windowsExec": "C:\\Users\\deepr\\AppData\\Local\\Microsoft\\WindowsApps\\Microsoft.PowerShell_8wekyb3d8bbwe\\pwsh.exe",
+    "bracketPairColorizer.showBracketsInGutter": true,
+    "vscode_vibrancy.theme": "Default Dark",
+    "vscode_vibrancy.opacity": -1,
+    "vscode_vibrancy.imports": [
+        "$theme-style$"
+    ],
+    "editor.tokenColorCustomizations": {
+        "textMateRules": [
+            {
+                "scope": [
+                    //following will be in italic (=FlottFlott)
+                    "comment",
+                    "entity.name.type.class", //class names
+                    "keyword", //import, export, return…
+                    "storage.modifier", //static keyword
+                    "storage.type", //class keyword
+                    "support.class.builtin",
+                    "keyword.control",
+                    "constant.language",
+                    "entity.other.attribute-name",
+                    "entity.name.method"
+                ],
+                "settings": {
+                    "fontStyle": "italic"
+                }
+            },
+            {
+                "scope": [
+                    //following will be excluded from italics (VSCode has some defaults for italics)
+                    "invalid",
+                    "keyword.operator",
+                    "constant.numeric.css",
+                    "keyword.other.unit.px.css",
+                    "constant.numeric.decimal.js",
+                    "constant.numeric.json"
+                ],
+                "settings": {
+                    "fontStyle": ""
+                }
+            }
+        ]
+    },
+    "editor.fontLigatures": true,
+    "editor.fontWeight": "330",
+    "editor.fontSize": 18.5,
+    "editor.letterSpacing": 0.13,
+    "workbench.editorAssociations": {
+        "*.jpg": "luna.editor",
+        "*.ipynb": "jupyter-notebook",
+        "*.xlsx": "default"
+    },
+    "jupyter.interactiveWindowMode": "perFile",
+    "breadcrumbs.enabled": true,
+    "editor.formatOnSave": true,
+    "editor.fontFamily": "Operator Mono",
+    "editor.cursorBlinking": "expand",
+    "liveServer.settings.donotVerifyTags": true,
+    "terminal.integrated.fontSize": 16,
+    "[dart]": {
+        "editor.codeActionsOnSave": {
+            "source.fixAll": true
+        },
+        "editor.formatOnSave": true,
+        "editor.formatOnType": true,
+        "editor.rulers": [
+            80
+        ],
+        "editor.selectionHighlight": false,
+        "editor.suggest.snippetsPreventQuickSuggestions": false,
+        "editor.suggestSelection": "first",
+        "editor.tabCompletion": "onlySnippets",
+        "editor.wordBasedSuggestions": false
+    },
+    "dart.previewLsp": true,
+    "polacode.transparentBackground": true,
+    "codesnap.containerPadding": "1em",
+    "liveshare.authenticationProvider": "GitHub",
+    "workbench.productIconTheme": "fluent-icons",
+    "explorer.confirmDelete": false,
+    "workbench.colorTheme": "Vasuki Dark Theme",
+    "syntax.highlightLanguages": [
+        "c",
+        "cpp",
+        "python",
+        "typescript",
+        "typescriptreact",
+        "javascript",
+        "go",
+        "rust",
+        "php",
+        "ruby",
+        "shellscript",
+        "ocaml",
+        "lua"
+    ],
+    "syntax.highlightTerms": [
+        "type",
+        "scope",
+        "function",
+        "variable",
+        "number",
+        "string",
+        "comment",
+        "constant",
+        "directive",
+        "control",
+        "operator",
+        "modifier",
+        "punctuation"
+    ],
+    "quokka.compactMessageOutput": true,
+    "wallaby.startAutomatically": false,
+    "quokka.automaticRestart": true,
+    "quokka.colors": {
+        "covered": "#62b455",
+        "errorPath": "#ffa0a0",
+        "errorSource": "#fe536a",
+        "notCovered": "#1ad297",
+        "partiallyCovered": "#d2a032"
+    },
+    "quokka.suppressExpirationNotifications": true,
+    "bracketPairColorizer.highlightActiveScope": true,
+    "todohighlight.keywords": [],
+    "todohighlight.defaultStyle": {
+        "color": "TODO"
+    },
+    "notebook.cellToolbarLocation": {
+        "default": "right",
+        "jupyter-notebook": "left"
+    },
+    "terminal.integrated.defaultProfile.windows": "PowerShell",
+    "terminal.integrated.profiles.windows": {
+        "PowerShell": {
+            "source": "PowerShell",
+            "icon": "terminal-powershell"
+        },
+        "Command Prompt": {
+            "path": [
+                "${env:windir}\\Sysnative\\cmd.exe",
+                "${env:windir}\\System32\\cmd.exe"
+            ],
+            "args": [],
+            "icon": "terminal-cmd"
+        },
+        "Git Bash": {
+            "source": "Git Bash"
+        },
+        "C:\\Program Files\\Git\\bin\\bash.exe (migrated)": {
+            "path": "C:\\Program Files\\Git\\bin\\bash.exe",
+            "args": []
+        },
+        "Windows PowerShell": {
+            "path": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"
+        }
+    },
+    "bracketPairColorizer.depreciation-notice": false,
+    "dart.debugExternalPackageLibraries": false,
+    "dart.debugSdkLibraries": false,
+    "workbench.startupEditor": "none",
+    "gitlens.hovers.currentLine.over": "line",
+    "codesnap.shutterAction": "copy",
+    "thunder-client.codeSnippetLanguage": "dart",
+    "workbench.sideBar.location": "right",
+    "gitlens.defaultDateFormat": null,
+    "dart.showInspectorNotificationsForWidgetErrors": false,
+    "editor.wordWrap": "on",
+    "editor.renderWhitespace": "none",
+    "gitlens.defaultDateLocale": null,
+    "dart.previewFlutterUiGuides": true,
+    "dart.previewBazelWorkspaceCustomScripts": true,
+    "editor.guides.bracketPairs": "active",
+    "workbench.editor.enablePreview": false,
+    "redhat.telemetry.enabled": false,
+    "editor.stickyScroll.enabled": true,
+    "terminal.integrated.fontFamily": "CaskaydiaCove NF",
+    "gopls": {
+        "experimentalWorkspaceModule": true
+    },
+    "[go]": {
+        "editor.formatOnSave": true
+    },
+    "go.toolsManagement.autoUpdate": true,
+    "terminal.integrated.gpuAcceleration": "on",
+    "todo-tree.general.tags": [
+        "BUG",
+        "HACK",
+        "FIXME",
+        "TODO",
+        "XXX",
+        "[ ]",
+        "[x]",
+        "DONE"
+    ],
+    "rapidapi.terminalLink.enabled": false,
+    "workbench.experimental.settingsProfiles.enabled": true,
+}
+/* 'Fira Code' , Consolas, 'Courier New', monospace  */
